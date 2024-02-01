@@ -1,4 +1,4 @@
-(footprint "H3LIS100DLTR" (version 20221018) (generator pcbnew)
+(footprint "Accelerometre_(H3LIS100DLTR)" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (tags "H3LIS100DLTR ")
   (attr smd)
