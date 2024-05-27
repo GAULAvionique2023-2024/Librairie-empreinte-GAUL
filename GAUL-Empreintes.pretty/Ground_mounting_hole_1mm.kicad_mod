@@ -1,4 +1,4 @@
-(footprint "AS5F32G04SNDA-08LIN" (version 20221018) (generator pcbnew)
+(footprint "Ground_mounting_hole_1mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
